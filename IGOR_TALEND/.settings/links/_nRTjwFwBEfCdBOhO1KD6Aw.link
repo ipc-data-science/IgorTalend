@@ -1,0 +1,62 @@
+{
+  "itemId" : "_nRTjwFwBEfCdBOhO1KD6Aw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_3YN88FwBEfCdBOhO1KD6Aw",
+    "parameterList" : [ {
+      "id" : "_3Yhe8VwBEfCdBOhO1KD6Aw",
+      "name" : "Snowflake_xyb49585_oauthProperties_oauthPassword"
+    }, {
+      "id" : "_3Yhe8lwBEfCdBOhO1KD6Aw",
+      "name" : "Snowflake_xyb49585_warehouse"
+    }, {
+      "id" : "_3Yhe81wBEfCdBOhO1KD6Aw",
+      "name" : "Snowflake_xyb49585_userPassword_password"
+    }, {
+      "id" : "_3Yhe9FwBEfCdBOhO1KD6Aw",
+      "name" : "Snowflake_xyb49585_keyAlias"
+    }, {
+      "id" : "_3Yhe9VwBEfCdBOhO1KD6Aw",
+      "name" : "Snowflake_xyb49585_oauthProperties_clientId"
+    }, {
+      "id" : "_3Yhe9lwBEfCdBOhO1KD6Aw",
+      "name" : "Snowflake_xyb49585_role"
+    }, {
+      "id" : "_3Yhe91wBEfCdBOhO1KD6Aw",
+      "name" : "Snowflake_xyb49585_userPassword_userId"
+    }, {
+      "id" : "_3Yhe-FwBEfCdBOhO1KD6Aw",
+      "name" : "Snowflake_xyb49585_db"
+    }, {
+      "id" : "_3Yhe-VwBEfCdBOhO1KD6Aw",
+      "name" : "Snowflake_xyb49585_jdbcParameters"
+    }, {
+      "id" : "_3Yhe-lwBEfCdBOhO1KD6Aw",
+      "name" : "Snowflake_xyb49585_jdbcUrlSuffix"
+    }, {
+      "id" : "_3Yhe-1wBEfCdBOhO1KD6Aw",
+      "name" : "Snowflake_xyb49585_oauthProperties_scope"
+    }, {
+      "id" : "_3Yhe_FwBEfCdBOhO1KD6Aw",
+      "name" : "Snowflake_xyb49585_oauthProperties_clientSecret"
+    }, {
+      "id" : "_3Yhe_VwBEfCdBOhO1KD6Aw",
+      "name" : "Snowflake_xyb49585_oauthProperties_oauthUserName"
+    }, {
+      "id" : "_3Yhe_lwBEfCdBOhO1KD6Aw",
+      "name" : "Snowflake_xyb49585_schemaName"
+    }, {
+      "id" : "_3Yhe_1wBEfCdBOhO1KD6Aw",
+      "name" : "Snowflake_xyb49585_loginTimeout"
+    }, {
+      "id" : "_3YhfAFwBEfCdBOhO1KD6Aw",
+      "name" : "Snowflake_xyb49585_account"
+    }, {
+      "id" : "_3YhfAVwBEfCdBOhO1KD6Aw",
+      "name" : "Snowflake_xyb49585_oauthProperties_oauthTokenEndpoint"
+    }, {
+      "id" : "_3YhfAlwBEfCdBOhO1KD6Aw",
+      "name" : "Snowflake_xyb49585_regionID"
+    } ]
+  } ]
+}
