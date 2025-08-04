@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Default" jobType="Standard">
   <context confirmationNeeded="false" hide="false" name="Default">
-    <contextParameter comment="" name="Directory" prompt="Directory?" promptNeeded="false" repositoryContextId="_2-PwAAvGEeqkgILlMt0b2Q" type="id_Directory" value="D:/OneDrive - IPC Global/Documents/IPC/IPCU/Certifications/Data Integration End-to-End  - Demo Kit/Talend/" internalId="_6rEvgDTOEeuXTauYxf3kuQ"/>
+    <contextParameter comment="" name="Directory" prompt="Directory?" promptNeeded="false" repositoryContextId="_2-PwAAvGEeqkgILlMt0b2Q" type="id_Directory" value="C:/Users/User/Documents/Data/" internalId="_6rEvgDTOEeuXTauYxf3kuQ"/>
     <contextParameter comment="" name="MySQL_DB" prompt="MySQL_DB?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="crm" internalId="_6rEvgTTOEeuXTauYxf3kuQ"/>
     <contextParameter comment="" name="MySQL_Pass" prompt="MySQL_Pass?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="Talend123" internalId="_6rEvgjTOEeuXTauYxf3kuQ"/>
     <contextParameter comment="" name="MySQL_User" prompt="MySQL_User?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="root" internalId="_6rEvgzTOEeuXTauYxf3kuQ"/>
